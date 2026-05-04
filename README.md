@@ -1,8 +1,7 @@
 <div align="center">
-# Kshitij Ganare
-### SDET · Test Automation Engineer · Quality Engineer
-
-*I build automation frameworks that catch bugs before they reach production.*
+Kshitij Ganare
+SDET · Test Automation Engineer · Quality Engineer
+I build automation frameworks that catch bugs before they reach production — not after.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitijganare/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijganare123@gmail.com)
