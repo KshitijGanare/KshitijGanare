@@ -1,6 +1,3 @@
-## Hi there 👋
-<div align="center">
-
 # Kshitij Ganare
 ### SDET · Test Automation Engineer · Quality Engineer
 
